@@ -1,5 +1,6 @@
 # lawOffice
 Alan's Law Office implemented by WordPress framework in PHP, ES2015 JavaScript, jQuery, Ajax live search with JSON API
+(Only theme folder is uploaded)
 
 Four main functionalities:
 1) Appointment System with WordPress plugins.
